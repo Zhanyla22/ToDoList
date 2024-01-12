@@ -1,12 +1,12 @@
  <h1 align="center">ToDoList by Zhanylai </h1>
 <h> RESTful API для управления списком задач </h> <br>
  <h1 align="center"> Информация о приложения</h1>
-<h> Порт : 8080</h> <br>
+<h> Порт : <b>8080</b></h> <br>
 <h> Язык: <b>Java 17</b></h> <br>
 <h> Framework: <b>Spring Boot : 3.2.1</b></h> <br>
 <h> СУБД : <b>PostgreSql</b></h> <br>
-<h> Apache Maven : 3.8.1</b></h> <br>
-<h> Название скомпилированного кода : ToDoList-0.0.1-SNAPSHOT.jar</h> <br>
+<h> Apache Maven : <b>3.8.1</b></h> <br>
+<h> Название скомпилированного кода : <b>ToDoList-0.0.1-SNAPSHOT.jar</b></h> <br>
 <h1 align="center">Запуск проекта</h1>
 <h> <b>1.</b> git clone https://github.com/Zhanyla22/ToDoList.git </h> <br>
 <h> Создать БД :</h> <br>
