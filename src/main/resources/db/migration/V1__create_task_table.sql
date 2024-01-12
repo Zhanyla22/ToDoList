@@ -9,5 +9,5 @@ CREATE TABLE IF NOT EXISTS task (
 
 INSERT INTO task (description, task_status, status, created_date, updated_date)
 VALUES
-    ('Task 1', 'NOT_EXECUTED', 'ACTIVE', NOW(), NOW()),
-    ('Task 2', 'DONE', 'DELETED', NOW(), NOW());
+    ('Task 1', 'NOT_EXECUTED', 'ACTIVE', NOW(), null),
+    ('Task 2', 'DONE', 'DELETED', NOW(), null);
