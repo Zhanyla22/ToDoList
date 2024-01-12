@@ -1,6 +1,6 @@
  <h1 align="center">ToDoList by Zhanylai </h1>
 <h> RESTful API для управления списком задач </h> <br>
-<h> Информация о приложения</h> <br>
+ <h1 align="center"> Информация о приложения</h1>
 <h> Порт : 8080</h> <br>
 <h> Язык: <b>Java 17</b></h> <br>
 <h> Framework: <b>Spring Boot : 3.2.1</b></h> <br>
